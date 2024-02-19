@@ -54,9 +54,6 @@ function pasteSpaghetti(mySVG) {
 	 
 	return newNums
 }
-🫴 His palms are sweaty 💦, 
-🦵 knees weak, 😰
-💪🏼 arms are heavy 🏋️
 
 function convertPathToNumbs(path) {
 	const d = path.getAttribute("d")
